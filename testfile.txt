@@ -8,6 +8,8 @@ adding lines
 now with staging area
 
 
-now with commi 
+now with commit 
 
-submit with different brancHt
+submit with different branch
+
+second time
