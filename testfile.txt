@@ -4,3 +4,8 @@ change in barnch1
 
 
 adding lines
+
+now with staging area
+
+
+now with commit
